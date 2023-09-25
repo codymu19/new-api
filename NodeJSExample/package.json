@@ -1,7 +1,7 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
-  "description": "node js example file",
+  "description": "nodeJS example file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,9 @@
     "url": "new-api"
   },
   "keywords": [
-    "test",
     "example",
-    "nodejs"
+    "package",
+    "test"
   ],
   "author": "codev6",
   "license": "ISC"
