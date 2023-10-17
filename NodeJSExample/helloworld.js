@@ -1,2 +1,6 @@
-const myFirstName = "Cody";
-console.log(`Hello, ${myFirstName}!`);
+
+function sayHello() {
+    return "Hello Cody!"; 
+}
+
+console.log(sayHello());
